@@ -13,8 +13,8 @@
 #define SENSORWATER 26
 // #define BUZZ 13
 // ================= WIFI =================
-char* ssid = "GomesPhysical";
-char* pass = "DBeOB;=9&&x1#p}";
+char* ssid = "";
+char* pass = "";
 // ================= TELNET =================
 WiFiServer telnetServer(23);
 WiFiClient client;
